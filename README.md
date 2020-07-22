@@ -12,6 +12,7 @@ We have provided a skeleton installation of Symfony.
 * Some (unit) testing.
 * Otherwise the code should be clean.
 
-Please write your code, and push it back up to this repository as a feature branch, using your own name as branch name.
+
+Please write your code, and push it back up to this repository as a feature branch, using your own name as branch name ex. feature/JensJensen.
 
 Please note that this test should take 3-4 hours, but we will not check the time used from the pushes.

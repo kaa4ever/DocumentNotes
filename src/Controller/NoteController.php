@@ -102,5 +102,4 @@ class NoteController extends AbstractController
         return new Response('All notes delete', Response::HTTP_OK);
 
     }
-
 }
